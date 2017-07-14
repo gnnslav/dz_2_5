@@ -1,0 +1,16 @@
+h1{
+	
+	color: #502809; 
+}
+h3{
+	color: #896c4a; 
+}
+#ref{
+	color: green;
+	/* text-color: #708259; */
+}
+div{
+	width: 400px;
+	height: 190px;
+	background: #d7d7bf;
+}
